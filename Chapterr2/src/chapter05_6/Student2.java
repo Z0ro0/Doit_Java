@@ -1,3 +1,5 @@
+package chapter05_6;
+
 public class Student2 {
     int studentID;
     String studentName;
